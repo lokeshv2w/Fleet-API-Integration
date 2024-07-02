@@ -85,7 +85,7 @@ function get_tracking_ajax()
         // echo "okay";
         // die();
         $api_url = 'https://api.roado.co.in/fleet/api';
-        $api_key = 'bbda2d97b83f4f3085c48394b136e1a1'; 
+        $api_key = 'your_api_key'; 
         $lr_number = $_POST['track_data']; 
         
         // Prepare the request data
