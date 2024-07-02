@@ -2,6 +2,10 @@
 
 ## By Using fetchByLRNo query
 
+## Success Tracking Screenshot.
+![Image description](image.png)
+
+
 ### Equivalent HTTP Request
 1. Method - POST
 2. URL - https://api.roado.co.in/fleet/api
