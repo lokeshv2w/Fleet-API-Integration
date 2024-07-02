@@ -1,6 +1,6 @@
 # Fleet-API-Integration
 
-## fetchByLRNo query
+## By Using fetchByLRNo query
 
 ### Equivalent HTTP Request
 1. Method - POST
